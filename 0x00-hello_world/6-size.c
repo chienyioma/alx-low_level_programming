@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - Entry point
  * Description: 'This prints sizes of various types'
