@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-* main - Prints alphabets in lower case
+* main - Prints all single digit numbers
 * Description: 'Print all single digit number from 0'
 * Return: Always 0.
 */
