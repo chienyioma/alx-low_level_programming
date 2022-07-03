@@ -6,25 +6,36 @@
 */
 int main(void)
 {
-	int tens;
-	int ones;
+	int a;
+	int n = 0;
 
-	for (tens = '0'; tens <= '8'; tens++)
+	while (n < 10)
 	{
-		for (ones = '1'; ones <= '9'; ones++)
+		a = 0;
+
+		while (a < 10)
 		{
-			putchar(tens);
-			putchar(ones);
-			if (!(tens == '8' && ones == '9'))
+
+			if (n != a && n < a)
 			{
-				putchar(',');
-				putchar(' ');
+
+				putchar('0' + n);
+				putchar('0' + c);
+				if (a + n != 17)
+				{
+
+					putchar(',');
+					putchar(' ');
+				}
 			}
+			c++;
 
 		}
+		d++;
 
 	}
 	putchar('\n');
-
+	return (0);
+}
 	return (0);
 }
