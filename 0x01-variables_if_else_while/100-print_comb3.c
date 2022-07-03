@@ -15,26 +15,26 @@ int main(void)
 
 		while (a < 10)
 		{
-
 			if (n != a && n < a)
 			{
 
 				putchar('0' + n);
-				putchar('0' + c);
+				putchar('0' + a);
 				if (a + n != 17)
 				{
-
 					putchar(',');
 					putchar(' ');
 				}
+
 			}
-			c++;
+			a++;
 
 		}
-		d++;
+		n++;
 
 	}
 	putchar('\n');
+
 	return (0);
 }
 	return (0);
