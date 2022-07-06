@@ -2,7 +2,7 @@
 
 /**
  * _abs - Prints absolute value
- * @int: The int to print
+ * @n: The number to print
  * Return: 0 Success
  */
 int _abs(int n)
