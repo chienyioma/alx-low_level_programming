@@ -5,10 +5,11 @@
  * @int: The int to print
  * Return: 0 Success
  */
-int _abs(int)
+int _abs(int n)
 {
-	if (int > 0)
-		return (int);
+	if (n > 0)
+		return (n);
 	else
-		return (-int);
+		return (-n);
+
 }
