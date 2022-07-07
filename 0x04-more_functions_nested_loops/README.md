@@ -6,3 +6,4 @@
 # Task 5 - Print 10 times of digits 0 to 14
 # Task 6 - Draw a straight line using -
 # Task 7 - Draw a diagonal line using \
+# Task 8 - Print a square
