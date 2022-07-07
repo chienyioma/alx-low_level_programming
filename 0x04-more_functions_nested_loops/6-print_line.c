@@ -8,9 +8,12 @@ void print_line(int n)
 {
 	int places = n;
 
-	for (places = n; places > 0; places--)
-		_putchar('_');
+	if (n > 0)
+	{
+		for (places = 0; places < n; places++)
+			_putchar('_');
 
+	}
 	_putchar('\n');
 
 }
