@@ -7,3 +7,4 @@
 # Task 6 - Draw a straight line using -
 # Task 7 - Draw a diagonal line using \
 # Task 8 - Print a square
+# Task 9 - Prints Fizzbuzz
