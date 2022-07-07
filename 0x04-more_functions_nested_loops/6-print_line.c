@@ -2,18 +2,15 @@
 
 /**
  * print_line - Draws a straight line using the character _
- * @n: The number of _ to be printed
+ * @n: The number of _  characters to be printed
  */
 void print_line(int n)
 {
-	int line;
+	int places = n;
 
-	if (n > 0)
-	{
-		for (line = 0; line < n; line++)
-			_putchar('_');
+	for (places = n; places > 0; places--)
+		_putchar('_');
 
-	}
 	_putchar('\n');
 
 }
