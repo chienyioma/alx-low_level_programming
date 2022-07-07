@@ -8,3 +8,4 @@
 # Task 7 - Draw a diagonal line using \
 # Task 8 - Print a square
 # Task 9 - Prints Fizzbuzz
+# Task 10 - Prints  triangle
