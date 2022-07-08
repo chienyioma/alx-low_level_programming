@@ -6,15 +6,15 @@
  */
 int main(void)
 {
-	long int i = 612852475143;
+	long int y = 612852475143;
 	long int pn;
 
-	for (pn = 2; pn <= i; pn++)
+	for (pn = 2; pn <= y; pn++)
 	{
-		if (i % pn == 0)
+		if (x % pn == 0)
 		{
 			i /= pn;
-			pn--;
+
 		}
 
 	}
