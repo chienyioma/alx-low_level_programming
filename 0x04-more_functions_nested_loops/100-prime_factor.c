@@ -7,17 +7,18 @@
 int main(void)
 {
 	long int i = 612852475143;
-	long int py;
+	long int pn;
 
-	for (py = 2; py < i; py++)
+	for (pn = 2; pn <= i; pn++)
 	{
-		if (i % py == 0)
+		if (i % pn == 0)
 		{
-			i = i / py;
+			i  /=  pn;
+			pn--;
 		}
 
 	}
-	printf("%1d\n", py);
+	printf("%1d\n", pn);
 
 	return (0);
 
