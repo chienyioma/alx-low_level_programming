@@ -9,3 +9,5 @@
 # Task 8 - Print a square
 # Task 9 - Prints Fizzbuzz
 # Task 10 - Prints  triangle
+# Task 11 - Print prime numbers
+# Task 12 - Prints an integer
