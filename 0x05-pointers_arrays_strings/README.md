@@ -5,3 +5,4 @@
 # Task 4 - Print string in reverse
 # Task 5 - Function to reverse a string
 # Task 6 - Prints every other character of a string
+# Task 7 - Prints half a string
