@@ -6,3 +6,4 @@
 # Task 5 - Function to reverse a string
 # Task 6 - Prints every other character of a string
 # Task 7 - Prints half a string
+# Task 8 - Prints n elements of an array integer
