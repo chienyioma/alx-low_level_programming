@@ -9,3 +9,4 @@
 # Task 8 - Prints n elements of an array integer
 # Task 9 - Copy string pointed to by src
 # Task 10 - Convert string to integer
+# Task 11 - Generates random valid password
