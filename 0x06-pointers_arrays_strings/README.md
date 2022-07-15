@@ -10,3 +10,4 @@
 # Task 9 - Prints an integer
 # Task 10 - Print a[2] = 98
 # Task 11 - Adds two numbers
+# Task 12 - Prints a buffer
