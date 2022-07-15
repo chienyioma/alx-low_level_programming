@@ -5,3 +5,4 @@
 # Task 4 - Reverses the content of an array
 # Task 5 - Changes all lowercase letters of a string to uppercase
 # Task 6 - Capitalizes all words in a string
+# Task 7 - Encodes a string into 1337
