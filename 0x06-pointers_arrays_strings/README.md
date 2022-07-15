@@ -8,3 +8,4 @@
 # Task 7 - Encodes a string into 1337
 # Task 8 - Encodes a string using rot13
 # Task 9 - Prints an integer
+# Task 10 - Print a[2] = 98
