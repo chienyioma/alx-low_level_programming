@@ -3,3 +3,4 @@
 # Task 2 - Copies a string
 # Task 3 - Compares two strings
 # Task 4 - Reverses the content of an array
+# Task 5 - Changes all lowercase letters of a string to uppercase
