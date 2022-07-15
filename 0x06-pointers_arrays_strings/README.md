@@ -6,3 +6,4 @@
 # Task 5 - Changes all lowercase letters of a string to uppercase
 # Task 6 - Capitalizes all words in a string
 # Task 7 - Encodes a string into 1337
+# Task 8 - Encodes a string using rot13
