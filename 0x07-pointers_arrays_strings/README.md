@@ -4,3 +4,4 @@
 # Task 3 - Gets the length of a prefix substring
 # Task 4 - Searches a string for any set of bytes
 # Task 5 - Locates a substring
+# Task 6 - Prints a chessboard
