@@ -6,3 +6,4 @@
 # Task 5 - Locates a substring
 # Task 6 - Prints a chessboard
 # Task 7 - Prints the sum of the two diagonals of a square matrix of integers
+# Task 8 - Sets the value of a pointer to a char
