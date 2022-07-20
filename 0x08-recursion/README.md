@@ -6,3 +6,4 @@
 # Task 5 - Returns the natural square root of a number
 # Task 6 - Returns 1 if the input integer is a prime number, otherwise return 0
 # Task 7 - Returns 1 if a string is a palindrome and 0 if not
+# Task 8 - Compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
