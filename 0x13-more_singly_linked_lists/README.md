@@ -4,3 +4,4 @@
 # Task 3 - Function that adds a new node at the end of a listint_t list
 # Task 4 - Function that frees a listint_t list
 # Task 5 - Function that frees a listint_t list
+# Task 6 - Function that deletes the head node of a listint_t
