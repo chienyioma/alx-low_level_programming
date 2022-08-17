@@ -7,3 +7,4 @@
 # Task 6 - Function that deletes the head node of a listint_t
 # Task 7 - Function that returns the nth node of a listint_t linked list
 # Task 8 - Function that returns the sum of all the data (n) of a listint_t linked list
+# Task 9 - Function that inserts a new node at a given position
