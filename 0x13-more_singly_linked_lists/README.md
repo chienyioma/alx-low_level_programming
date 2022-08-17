@@ -10,3 +10,4 @@
 # Task 9 - Function that inserts a new node at a given position
 # Task 10 - Function that deletes the node at index index of a listint_t linked list
 # Task 11 - Function that reverses a listint_t linked list
+# Task 12 - Function that prints a listint_t linked list
