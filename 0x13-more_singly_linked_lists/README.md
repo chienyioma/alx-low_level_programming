@@ -12,3 +12,4 @@
 # Task 11 - Function that reverses a listint_t linked list
 # Task 12 - Function that prints a listint_t linked list
 # Task 13 - Function that frees a listint_t list
+# Task 14 - Function that finds the loop in a linked list
